@@ -1,0 +1,14 @@
+{
+  "name": "node-mysql",
+  "version": "1.0.0",
+  "description": "A application to learn mysql and nodejs",
+  "main": "app.js",
+  "repository": "https://github.com/devjayantmalik/node-mysql.git",
+  "author": "Jayant Malik",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
+}
